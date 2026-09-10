@@ -53,11 +53,9 @@ I think I am funny.
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=ankitorleaveit&theme=matrix&no-frame=true&no-bg=true&column=5&margin-w=10&margin-h=10">
+<img src="./badges.svg" alt="GitHub achievements: Galaxy Brain, Pull Shark, Quickdraw, Pair Extraordinaire, YOLO" width="100%">
 
 </div>
-
-Galaxy Brain · Pull Shark · Quickdraw · Pair Extraordinaire · YOLO
 
 ## Reach me
 
