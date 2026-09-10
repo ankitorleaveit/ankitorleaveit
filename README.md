@@ -7,9 +7,9 @@
 <div align="center">
 
 <a href="mailto:ankitbhuyans@gmail.com"><img src="https://img.shields.io/badge/mail-ankitbhuyans%40gmail.com-2ee6a6?style=flat-square&logo=gmail&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
-<a href="https://www.linkedin.com/in/ankkkuuu/"><img src="https://img.shields.io/badge/linkedin-ankkkuuu-2ee6a6?style=flat-square&logo=linkedin&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
-<a href="https://twitter.com/ankkkuuu"><img src="https://img.shields.io/badge/x-ankkkuuu-2ee6a6?style=flat-square&logo=x&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
-<a href="https://g.dev/anxhvr"><img src="https://img.shields.io/badge/google_dev-anxhvr-2ee6a6?style=flat-square&logo=google&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
+<a href="https://www.linkedin.com/in/ankitorleaveit/"><img src="https://img.shields.io/badge/linkedin-ankitorleaveit-2ee6a6?style=flat-square&logo=linkedin&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
+<a href="https://twitter.com/ankitorleaveit"><img src="https://img.shields.io/badge/x-ankitorleaveit-2ee6a6?style=flat-square&logo=x&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
+<a href="https://g.dev/ankitorleaveit"><img src="https://img.shields.io/badge/google_dev-ankitorleaveit-2ee6a6?style=flat-square&logo=google&logoColor=2ee6a6&labelColor=04100c&color=07160f"></a>
 <img src="https://komarev.com/ghpvc/?username=ankitorleaveit&style=flat-square&color=2ee6a6&label=scans">
 
 </div>
