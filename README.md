@@ -64,6 +64,4 @@
 - Google Developer profile — [g.dev/ankitorleaveit](https://g.dev/ankitorleaveit)
 
 <div align="center">
-<sub>exit 0 · connection held open · <code>ankitorleaveit</code></sub><br>
-<sub>panels rendered nightly by <a href="./.github/workflows/profile-scan.yml">profile-scan.yml</a></sub>
 </div>
